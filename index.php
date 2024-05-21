@@ -51,7 +51,7 @@
 					<div class="col-md-8 text text-center">
 						<div class="img mb-4" style="background-image: url(assets/images/dp.jpg);"></div>
 						<div class="desc">
-							<h2 class="subheading">Hello I'm</h2>
+							<h2 class="subheading">Hello</h2>
 							<h1 class="mb-4">Derrick Paner</h1>
 							<p class="mb-4">I'm from bla blabalabla blabalfhajsf safakjbfskbsdmg asbasjfasijf basbfasnfajsfa akfasfasf aksjbahsgfas fakjfbajbfbakfbasfasfbajsn asasakss fasa af mf.</p>
 							<!-- <p><a href="#" class="btn-custom">More About Me <span class="ion-ios-arrow-forward"></span></a></p> -->
